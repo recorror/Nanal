@@ -1,6 +1,6 @@
 ## ✨ 프로젝트 진행 기간.
 
-2023.01.09 (월) ~ 2023.02.17 (금) _ (6주간 진행)
+2023.01.09 (월) ~ 2023.02.17 (금) \_ (6주간 진행)
 
 SSAFY 8기 2학기 공통 프로젝트 - **DBD 나날**
 
@@ -116,23 +116,24 @@ AI를 통하여 일기의 내용을 그림으로 그려주기도 하며, 그날�
 <summary>back_Nanal</summary>
 <div markdown="1">
 
-  ```
-  📦nanal
- ┣ 📂config
- ┃ ┣ 📂common 
- ┃ ┣ 📂oauth  
- ┃ ┣ 📂security  
- ┣ 📂controller  
- ┣ 📂dto  
- ┣ 📂exception    
- ┣ 📂handler    
- ┣ 📂model  
- ┣ 📂PapagoAPI  
- ┣ 📂repository  
- ┣ 📂S3Uploader  
- ┣ 📂service
- ┗ 📜NanalApplication.java
-  ```
+```
+📦nanal
+┣ 📂config
+┃ ┣ 📂common
+┃ ┣ 📂oauth
+┃ ┣ 📂security
+┣ 📂controller
+┣ 📂dto
+┣ 📂exception
+┣ 📂handler
+┣ 📂model
+┣ 📂PapagoAPI
+┣ 📂repository
+┣ 📂S3Uploader
+┣ 📂service
+┗ 📜NanalApplication.java
+```
+
   </div>
 </details>
 
@@ -140,41 +141,41 @@ AI를 통하여 일기의 내용을 그림으로 그려주기도 하며, 그날�
   <summary>front_Nanal</summary>
     <div markdown="1">
 
-  ```
-    📦src
-    ┣ 📂components
-    ┃ ┣ 📂account
-    ┃ ┣ 📂another
-    ┃ ┣ 📂diary
-    ┃ ┣ 📂friend
-    ┃ ┣ 📂group
-    ┃ ┣ 📂mypage
-    ┃ ┃ ┣ 📂profile
-    ┃ ┃ ┣ 📂setting
-    ┣ 📂config
-    ┣ 📂main
-    ┣ 📂src_assets
-    ┃ ┣ 📂css
-    ┃ ┣ 📂fonts
-    ┃ ┗ 📂img
-    ┃ ┃ ┣ 📂bookmark
-    ┃ ┃ ┣ 📂bookmark-name
-    ┃ ┃ ┣ 📂diary-img
-    ┃ ┃ ┣ 📂emotion
-    ┣ 📂store
-    ┣ 📂webComponents
-    ┃ ┣ 📂account
-    ┃ ┣ 📂another
-    ┃ ┣ 📂diary
-    ┃ ┣ 📂friend
-    ┃ ┣ 📂group
-    ┃ ┣ 📂modal
-    ┃ ┣ 📂setting
-    ┣ 📜App.css
-    ┣ 📜App.js
-    ┣ 📜index.css
-    ┣ 📜index.js
-  ```
+```
+  📦src
+  ┣ 📂components
+  ┃ ┣ 📂account
+  ┃ ┣ 📂another
+  ┃ ┣ 📂diary
+  ┃ ┣ 📂friend
+  ┃ ┣ 📂group
+  ┃ ┣ 📂mypage
+  ┃ ┃ ┣ 📂profile
+  ┃ ┃ ┣ 📂setting
+  ┣ 📂config
+  ┣ 📂main
+  ┣ 📂src_assets
+  ┃ ┣ 📂css
+  ┃ ┣ 📂fonts
+  ┃ ┗ 📂img
+  ┃ ┃ ┣ 📂bookmark
+  ┃ ┃ ┣ 📂bookmark-name
+  ┃ ┃ ┣ 📂diary-img
+  ┃ ┃ ┣ 📂emotion
+  ┣ 📂store
+  ┣ 📂webComponents
+  ┃ ┣ 📂account
+  ┃ ┣ 📂another
+  ┃ ┣ 📂diary
+  ┃ ┣ 📂friend
+  ┃ ┣ 📂group
+  ┃ ┣ 📂modal
+  ┃ ┣ 📂setting
+  ┣ 📜App.css
+  ┣ 📜App.js
+  ┣ 📜index.css
+  ┣ 📜index.js
+```
 
   </div>
   </details>
@@ -185,8 +186,6 @@ AI를 통하여 일기의 내용을 그림으로 그려주기도 하며, 그날�
     </div>
   </details>
 
-      
-      
 ## ✅ 프로젝트 산출물 및 결과물
 
 GitLab 및 exec 폴더 참조
